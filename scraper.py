@@ -17,7 +17,7 @@ giornata= [
 
 ]
 
-f= open('json_files/seriea.json')
+f= open('seriea.json')
 #dati presi da fotmob
 data=json.load(f)
 
