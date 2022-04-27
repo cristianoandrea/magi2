@@ -8,7 +8,7 @@ campionato_home =[]
 campionato_away=[]
 campionato_form=[]
 
-f= open('json_files/serie-a_33.json')
+f= open('serie-a_33.json')
 #dati presi da fotmob.com
 data=json.load(f)
 
